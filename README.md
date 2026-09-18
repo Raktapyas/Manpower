@@ -112,14 +112,9 @@ EST. 2010 — KATHMANDU
 
 <div align="center">
 
-<a href="assets/readme/demo.mp4">
-<img src="assets/readme/thumb-video.jpg" width="100%" alt="Click to play hosted demo.mp4 — Megasoft hero walkthrough"/>
-</a>
+**▶ [`assets/readme/demo.mp4` — 6s • 1280×720 • h264 • 407KB ↗](assets/readme/demo.mp4)**
 
-**`assets/readme/demo.mp4` — 6s • 1280×720 • h264 • 407KB**
-
-*Click the thumbnail above to play directly on GitHub (hosted in-repo, no YouTube, no external host).*
-*Raw path: `assets/readme/demo.mp4` — streamable via GitHub blob viewer. If your browser blocks inline playback, [download & play ↗](assets/readme/demo.mp4)*
+*Hosted in-repo — no YouTube, no external host. Click to stream via GitHub blob viewer or download.*
 
 ```bash
 # local playback
@@ -147,11 +142,10 @@ Manpower/
 │   │   └── logo/           # megasoft-logo-black.svg / -white.svg
 │   ├── fonts/              # ClashDisplay • MangoGrotesque • Platform • FA Pro
 │   ├── mail.php            # PHP mailer (POST → $recipient)
-│   └── readme/             # ← THIS README'S ARSENAL (hybrid media)
+│   └── readme/             # ← THIS README'S ARSENAL (text + gif only)
 │       ├── demo-hero.gif       # 2.6M — hero slider crossfade
 │       ├── contact-glow.gif    # 2.7M — kathmandu dark protocol
-│       ├── demo.mp4            # 407K — hosted demo (h264, faststart)
-│       └── thumb-video.jpg     # 204K — video poster
+│       └── demo.mp4            # 407K — hosted demo (h264, faststart)
 └── README.md               # you are here // villain edition
 ```
 
@@ -215,15 +209,6 @@ KATHMANDU (HQ) ─┬─► UAE ────────── Construction • 
 ```
 
 **Credentials:** Gov. licensed • Est. 2010 • License No. `XXX/XXX` (replace in `index.html:331`) • Pexels credits in comments (`index.html:373`, `contact.html:267`).
-
----
-
-## 📸 STILLS — WHEN GIFS PAUSE
-
-<p align="center">
-  <img src="assets/readme/hero-preview.png" width="48%" alt="Hero still"/>
-  <img src="assets/readme/kathmandu-preview.jpg" width="48%" alt="Kathmandu office still"/>
-</p>
 
 ---
 
